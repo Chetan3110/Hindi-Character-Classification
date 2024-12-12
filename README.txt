@@ -1,4 +1,4 @@
-- train folder
+Train folder
 You can find the NON TEXT images (-ve class) in the ‘background’ sub folder.
 TEXT images (+ve class) are stored in ‘hi’ sub folders.
 
